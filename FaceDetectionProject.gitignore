@@ -1,0 +1,14 @@
+# Large model weights file
+Weights/mmod_human_face_detector.dat
+
+# Python cache and virtual environment
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
